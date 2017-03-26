@@ -39,7 +39,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	  <p>Faculty of Management Science</p>
 	  <p>Department of Information Systems</p>
 
-          <p class="w3-large"><b><i class="fa fa-Heart mark fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>calculate</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
