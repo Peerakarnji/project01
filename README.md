@@ -55,16 +55,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           <br>
 
-          <p class="w3-large w3-text-theme"><b><i class="fa fa-Graduation cap fa-fw w3-margin-right w3-text-teal"></i>Education</b></p>
-          <p>Prince of Songkla University</p><br>
-		  <p>Faculty of Management Science</p><br>
-		  <p>Information Systems </p>
-         
-          </div>
-          <br>
-
+          <dl>
+	  <dt>Education</dt><br>
+          <dt>Prince of Songkla University</dt><br>
+	  <dt>Faculty of Management Science</dt><br>
+	  <dt>Information Systems</dt>
+       
     <!-- End Left Column -->
-    </div>
+ 
 
     <!-- Right Column -->
     <div class="w3-twothird">
