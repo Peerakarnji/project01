@@ -24,7 +24,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
           <img src="jiji.jpg" style="width:100%" alt="Avatar">
-          <div class="w3-display-bottomleft w3-container w3-text-white">
+          <div class="w3-display-bottomleft w3-container w3-text-grey">
             <h2>Peerakarn Buabarn</h2>
           </div>
         </div>
@@ -40,9 +40,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	  <p>Prince of Songkla University</p>
 	  <p>Faculty of Management Science</p>
 	  <p>Department of Information Systems</p>
+	  <hr>
 
           <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
-          <p>calculate</p>
+          <p>Calculate</p>
           <div class="w3-light-blue w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-pink" style="width:90%">90%</div>
           </div>
@@ -73,8 +74,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Right Column -->
     <div class="w3-twothird">
     
-      <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+      <div class="w3-container w3-card-2 w3-light-pink w3-margin-bottom">
+        <h2 class="w3-text-black w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-red"></i>Work Experience</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
