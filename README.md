@@ -74,7 +74,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
  
 
     <!-- Right Column -->
-      <div class="w3-twothird">
+    <div class="w3-twothird">
     
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
@@ -91,18 +91,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
        </div>
-<br>
+
       <div class="w3-container w3-card-2 w3-white">
+	  <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-Asterisks fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i></h2>
 	    <div class="w3-container">
-		<img src="ji2.JPG" alt="ji02" style="width:50%">
+		<img src="ji2.jpg" alt="ji02" style="width:30%">
           <h5 class="w3-opacity"><b>Talent</b></h5>
-          <p>sing, paint, calculate, sell</p>
+          <p>sing,paint,Calculate,sell</p>
           <hr>
         </div>
 		<div class="w3-container">
-		<img src="ji3.JPG" alt="ji03" style="width:50%">
+		<img src="ji3.jpg" alt="ji03" style="width:30%">
           <h5 class="w3-opacity"><b>Hobby</b></h5>
-          <p>listen to music, watch TV, fitness, swimming</p><br>
+          <p>listen to music,watch TV,Fitness,swimming</p><br>
         </div>
       </div>
 
