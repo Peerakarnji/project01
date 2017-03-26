@@ -93,14 +93,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
        </div>
 
       <div class="w3-container w3-card-2 w3-white">
-	    <img src="ji2.jpg" alt="ji" style=width:60%">
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>Talentalent</b></h5>
+	    <div class="w3-container">
+	    <img src="ji2.jpg" alt="ji" style=width:50%>
+          <h5 class="w3-opacity"><b>Talen</b></h5>
           <p>sing,paint,Calculate,sell</p>
           <hr>
         </div>
-		<img src="ji3.jpg" alt="ji" style=width:60%">
-        <div class="w3-container">
+		<div class="w3-container">
+		<img src="ji3.jpg" alt="jii" style=width:60%>
           <h5 class="w3-opacity"><b>Hobby</b></h5>
           <p>listen to music,watch TV,Fitness,swimming</p><br>
         </div>
