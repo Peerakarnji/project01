@@ -24,7 +24,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
           <img src="jiji.jpg" style="width:100%" alt="Avatar">
-          <div class="w3-display-bottomleft w3-container w3-text-grey">
+          <div class="w3-display-bottomleft w3-container w3-text-black">
             <h2>Peerakarn Buabarn</h2>
           </div>
         </div>
@@ -36,10 +36,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-green"></i>0824317412</p>
           <hr>
           
-          <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-purple"></i>Education</b></p>
-	  <p>Prince of Songkla University</p>
-	  <p>Faculty of Management Science</p>
-	  <p>Department of Information Systems</p>
+          <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-purple"></i>About Me</b></p>
+	  <p>Hello,</p>
+	  <p>My name's Peerakarn Buabarn.</p>
+	  <p>Born June 13, 1996.I'm 20 years old.</p>
+	  <p>Now studying at Prince of Songkla University./p>
 	  <hr>
 
           <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
