@@ -20,10 +20,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Left Column -->
     <div class="w3-third">
     
-      <div class="w3-white w3-text-grey w3-card-4">
+      <div class="w3-purple w3-text-grey w3-card-4">
         <div class="w3-display-container">
           <img src="jiji.jpg" style="width:100%" alt="Avatar">
-          <div class="w3-display-bottomleft w3-container w3-text-black">
+          <div class="w3-display-bottomleft w3-container w3-text-pink">
             <h2>Peerakarn Buabarn</h2>
           </div>
         </div>
@@ -41,22 +41,22 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
           <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>calculate</p>
-          <div class="w3-light-blue w3-round-purple w3-small">
-            <div class="w3-container w3-center w3-round-pink w3-teal" style="width:90%">90%</div>
+          <div class="w3-light-blue w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
           </div>
           <p>Creativity</p>
-          <div class="w3-light-blue w3-round-purple w3-small">
-            <div class="w3-container w3-center w3-round-pink w3-teal" style="width:80%">
+          <div class="w3-light-blue w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
               <div class="w3-center w3-text-white">80%</div>
             </div>
           </div>
           <p>Photography</p>
-          <div class="w3-light-blue w3-round-purple w3-small">
-            <div class="w3-container w3-center w3-round-pink w3-teal" style="width:60%">60%</div>
+          <div class="w3-light-blue w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
           </div>
           <p>Media</p>
-          <div class="w3-light-blue w3-round-purple w3-small">
-            <div class="w3-container w3-center w3-round-pink w3-teal" style="width:50%">50%</div>
+          <div class="w3-light-blue w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
           </div>
           <br>
 
