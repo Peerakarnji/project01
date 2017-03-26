@@ -74,8 +74,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
  
 
     <!-- Right Column -->
-    <br>
-    <div class="w3-twothird">
+      <div class="w3-twothird">
     
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
@@ -92,7 +91,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
        </div>
-
+<br>
       <div class="w3-container w3-card-2 w3-white">
 	    <div class="w3-container">
 		<img src="ji2.JPG" alt="ji02" style="width:50%">
