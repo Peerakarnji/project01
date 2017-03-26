@@ -40,7 +40,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	  <p>Hello,</p>
 	  <p>My name's Peerakarn Buabarn.</p>
 	  <p>Born June 13, 1996.I'm 20 years old.</p>
-	  <p>Now studying at Prince of Songkla University./p>
+	  <p>Now studying at Prince of Songkla University.</p>
 	  <hr>
 
           <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
