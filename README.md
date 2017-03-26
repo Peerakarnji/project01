@@ -28,7 +28,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
             <h2>Peerakarn Buabarn</h2>
           </div>
         </div>
-		<h1>Hello, it's me,align=center</h1>
+		<h2>Hello, it's me</h2>
         <div class="w3-container">
           <p><i class="fa fa-book fa-fw w3-margin-right w3-large w3-text-green"></i>Student</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-green"></i>Songkhla, Thailand</p>
