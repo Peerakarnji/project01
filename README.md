@@ -35,9 +35,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
           
           <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-teal"></i>Education</b></p>
-          <p>Prince of Songkla University
-	  Faculty of Management Science
-	  Department of Information Systems</p>
+	  <p>Prince of Songkla University</p>
+	  <p>Faculty of Management Science</p>
+	  <p>Department of Information Systems</p>
 
           <p class="w3-large"><b><i class="fa fa-Heart mark fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
           <p>calculate</p>
