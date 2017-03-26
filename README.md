@@ -55,13 +55,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           <br>
 
-          <dl>
-	  <dt>Education</dt><br>
-          <dt>Prince of Songkla University</dt><br>
-	  <dt>Faculty of Management Science</dt><br>
-	  <dt>Information Systems</dt>
-       
-    <!-- End Left Column -->
+        
+    </div>
+  </div><br>
+
+<!-- End Left Column -->
+</div>
  
 
     <!-- Right Column -->
