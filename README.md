@@ -92,7 +92,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
        </div>
 
-      <div class="w3-container w3-card-2 w3-white">
+      <div class="w3-container w3-card-2 w3-pale-yellow">
 	  <h2 class="w3-text-grey w3-padding-10"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-yellow"></i></h2>
 	    <div class="w3-container">
 		<img src="ji2.JPG" alt="ji02" style="width:50%">
