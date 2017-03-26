@@ -22,7 +22,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-third">
 	
 	     
-      <div class="w3-white w3-text-grey w3-card-4">
+      <div class="w3-red w3-text-grey w3-card-4">
         <div class="w3-display-container">
           <img src="jiji.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
@@ -97,13 +97,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	    <div class="w3-container">
 		<img src="ji2.JPG" alt="ji02" style="width:50%">
           <h5 class="w3-opacity"><b>Talent</b></h5>
-          <p>sing, paint, calculate, sell</p>
+          <p>sing,paint,Calculate,sell</p>
           <hr>
         </div>
 		<div class="w3-container">
 		<img src="ji3.JPG" alt="ji03" style="width:50%">
           <h5 class="w3-opacity"><b>Hobby</b></h5>
-          <p>listen to music, watch TV, fitness, swimming</p><br>
+          <p>listen to music,watch TV,Fitness,swimming</p><br>
         </div>
       </div>
 
