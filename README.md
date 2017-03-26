@@ -37,7 +37,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-green"></i>0824317412</p>
           <hr>
           
-          <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-pale-yellow w3-text-purple"></i>About Me</b></p>
+          <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-purple"></i>About Me</b></p>
 	  <p>Hello,</p>
 	  <p>My name's Peerakarn Buabarn.
 	  Born June 13, 1996.I'm 20 years old.
@@ -77,7 +77,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <div class="w3-twothird">
     
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
-        <h2 class="w3-black w3-pale-yellow w3-center"><b>Education</b></h2>
+        <h2 class="w3-opacity w3-pale-yellow w3-center"><b>Education</b></h2>
         <div class="w3-container">
 		   <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2014</h6>
           <p>Woranari Chaloem School</p>
