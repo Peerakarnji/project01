@@ -79,12 +79,12 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
         <h2 class="w3-text-black w3-padding-16"><i class="fa fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
+		   <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2014</h6>
           <p>Woranari Chaloem School</p>
           <hr>
         </div>
         <div class="w3-container">
-		<h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2014 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - 2017</h6>
+		  <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p>Prince of Songkla University</p>
 		  <p>Faculty of Management Science</p>
 		  <p>Information Systems</p>
@@ -94,13 +94,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
       <div class="w3-container w3-card-2 w3-white">
 	    <div class="w3-container">
-		<img src="ji2.jpg" style="width:60%" alt="ji02"><br>
+		<img src="ji2.jpg" style="width:60%" alt="ji02">
           <h5 class="w3-opacity"><b>Talent</b></h5>
           <p>sing,paint,Calculate,sell</p>
           <hr>
         </div>
 		<div class="w3-container">
-		<img src="ji3.jpg" style="width:60%" alt="ji03"><br>
+		<img src="ji3.jpg" style="width:60%" alt="ji03">
           <h5 class="w3-opacity"><b>Hobby</b></h5>
           <p>listen to music,watch TV,Fitness,swimming</p><br>
         </div>
