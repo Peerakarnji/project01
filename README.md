@@ -28,10 +28,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
         </div>
         <div class="w3-container">
-          <p><i class="fa fa-book fa-fw w3-margin-right w3-large w3-text-light pink"></i>Student</p>
-          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-light pink"></i>Songkhla, Thailand</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-light pink"></i>peerakarn_ji@mail.com</p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-light pink"></i>0824317412</p>
+          <p><i class="fa fa-book fa-fw w3-margin-right w3-large w3-text-pink"></i>Student</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-pink"></i>Songkhla, Thailand</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-pink"></i>peerakarn_ji@mail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-pink"></i>0824317412</p>
           <hr>
           
           <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-purple"></i>Education</b></p>
@@ -39,24 +39,24 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 	  <p>Faculty of Management Science</p>
 	  <p>Department of Information Systems</p>
 
-          <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-purple"></i>Skills</b></p>
           <p>calculate</p>
           <div class="w3-light-blue w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-pink" style="width:90%">90%</div>
           </div>
           <p>Creativity</p>
           <div class="w3-light-blue w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+            <div class="w3-container w3-center w3-round-xlarge w3-pink" style="width:80%">
               <div class="w3-center w3-text-white">80%</div>
             </div>
           </div>
           <p>Photography</p>
           <div class="w3-light-blue w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-pink" style="width:60%">60%</div>
           </div>
           <p>Media</p>
           <div class="w3-light-blue w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-pink" style="width:50%">50%</div>
           </div>
           <br>
 
