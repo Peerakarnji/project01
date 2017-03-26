@@ -9,7 +9,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body class="w3-light-pink">
+<body class="w3-light-grey">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
@@ -28,13 +28,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
         </div>
         <div class="w3-container">
-          <p><i class="fa fa-book fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
-          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Songkhla, Thailand</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>peerakarn_ji@mail.com</p>
-          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>0824317412</p>
+          <p><i class="fa fa-book fa-fw w3-margin-right w3-large w3-text-light pink"></i>Student</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-light pink"></i>Songkhla, Thailand</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-light pink"></i>peerakarn_ji@mail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-light pink"></i>0824317412</p>
           <hr>
           
-          <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-teal"></i>Education</b></p>
+          <p class="w3-large"><b><i class="fa fa-square fa-fw w3-margin-right w3-text-purple"></i>Education</b></p>
 	  <p>Prince of Songkla University</p>
 	  <p>Faculty of Management Science</p>
 	  <p>Department of Information Systems</p>
